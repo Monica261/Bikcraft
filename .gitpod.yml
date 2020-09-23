@@ -1,7 +1,4 @@
 ports:
   - port: 8080
 
-tasks:
-  - init: mysql < spring-boot-pi/DDL.sql
 
-image: gitpod/workspace-mysql
