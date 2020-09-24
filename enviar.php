@@ -8,8 +8,8 @@ require "./PHPMailer/src/PHPMailer.php";
 require "./PHPMailer/src/SMTP.php";
   
 // Mudar Aqui o e-mail
-$email_envio = "nathaliatorres26@hotmail.com"; // E-mail do site (ex: contato@seusite.com)
-$email_pass = "26111999.Monica"; // Senha do e-mail
+$email_envio = "email@test.com"; // E-mail do site (ex: contato@seusite.com)
+$email_pass = "senha"; // Senha do e-mail
 
 $site_name = "Bikcraft"; // Nome do Site
 $site_url = "www.bikcraft.com"; // URL do Site
